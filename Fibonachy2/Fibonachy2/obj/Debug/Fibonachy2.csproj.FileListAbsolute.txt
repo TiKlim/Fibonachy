@@ -1,0 +1,8 @@
+C:\Users\Клим\source\repos\Fibonachy2\Fibonachy2\bin\Debug\Fibonachy2.exe.config
+C:\Users\Клим\source\repos\Fibonachy2\Fibonachy2\bin\Debug\Fibonachy2.exe
+C:\Users\Клим\source\repos\Fibonachy2\Fibonachy2\bin\Debug\Fibonachy2.pdb
+C:\Users\Клим\source\repos\Fibonachy2\Fibonachy2\obj\Debug\Fibonachy2.csproj.AssemblyReference.cache
+C:\Users\Клим\source\repos\Fibonachy2\Fibonachy2\obj\Debug\Fibonachy2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Клим\source\repos\Fibonachy2\Fibonachy2\obj\Debug\Fibonachy2.csproj.CoreCompileInputs.cache
+C:\Users\Клим\source\repos\Fibonachy2\Fibonachy2\obj\Debug\Fibonachy2.exe
+C:\Users\Клим\source\repos\Fibonachy2\Fibonachy2\obj\Debug\Fibonachy2.pdb
